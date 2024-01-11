@@ -1,0 +1,774 @@
+{
+  "sections": {
+    "1664813384d2ca5ba6": {
+      "type": "index-categories-with-subcategories-banners",
+      "blocks": {
+        "1664813384bbb7cfb8-0": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide-01_83fe29ae-f349-473e-9ce8-1341d803f8f5.png",
+            "color_placeholder": "#4970f8",
+            "caption_1": "HOT OFFER",
+            "caption_2": "Start free",
+            "caption_3": "Trial Store",
+            "invert_color": true,
+            "url": "https://shopify.pxf.io/c/2245513/1061744/13624"
+          }
+        },
+        "1664813384bbb7cfb8-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide-02_4432599e-6e52-45e5-a27e-b9274fdd3577.png",
+            "color_placeholder": "#10c677",
+            "caption_1": "NEW ARRIVALS",
+            "caption_2": "Big Sale",
+            "caption_3": "Up to 70% OFF",
+            "invert_color": true,
+            "url": "shopify://collections/electronics"
+          }
+        },
+        "1664813384bbb7cfb8-2": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide-03_3d9e2400-c315-4bd7-bc98-d6d1daae7c4f.png",
+            "color_placeholder": "#ffce16",
+            "caption_1": "NEW ARRIVALS",
+            "caption_2": "Big Sale",
+            "caption_3": "Up to 70% OFF",
+            "invert_color": true,
+            "url": "shopify://collections/electronics"
+          }
+        }
+      },
+      "block_order": [
+        "1664813384bbb7cfb8-0",
+        "1664813384bbb7cfb8-1",
+        "1664813384bbb7cfb8-2"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 0,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 10,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "heading": "Categories",
+        "subtitle": "Subtitle",
+        "menu_categories": "catalog",
+        "category_previews": false,
+        "limit": 9,
+        "slideshow_control_layout": "default"
+      }
+    },
+    "16648142922478507c": {
+      "type": "index-banner-grid",
+      "blocks": {
+        "1664814292e747a587-0": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/banner-01_b1b62fe7-66a6-4a24-93a2-2808ced19952.png",
+            "video_loop": false,
+            "color_placeholder": "#0cc576",
+            "title": "Camera",
+            "subtitle": "THE EVOLUTION OF",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/electronics",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": false,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "top",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 14,
+            "top_padding": 14,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664814292e747a587-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/banner-02_4194657c-182b-4f44-8e69-00fa2a7f5c21.png",
+            "video_loop": false,
+            "color_placeholder": "#ffd339",
+            "title": "Of Mobile",
+            "subtitle": "THE EVOLUTION",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/electronics",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": false,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "right",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 54,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664814292e747a587-2": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/banner-03_63073190-bd0a-451b-84fd-9889de7d99e7.png",
+            "video_loop": false,
+            "color_placeholder": "#f5f8ff",
+            "title": "MP3 PLayer",
+            "subtitle": "SPECIAL OFFER",
+            "invert_color": false,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/electronics",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": false,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "right",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 54,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664814292e747a587-3": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/banner-04_6b1b5fbf-cf90-40a6-b8dd-5ebd7dc4cd05.png",
+            "video_loop": false,
+            "color_placeholder": "#e344ae",
+            "title": "Watch",
+            "subtitle": "NEW ARRIVALS",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/electronics",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": false,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "top",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 14,
+            "top_padding": 14,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        }
+      },
+      "block_order": [
+        "1664814292e747a587-0",
+        "1664814292e747a587-1",
+        "1664814292e747a587-2",
+        "1664814292e747a587-3"
+      ],
+      "settings": {
+        "spacing_sections": 30,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 20,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "boxed": true,
+        "slider_bottom_ellipse": false,
+        "layout": "mosaic-2",
+        "slideshow_fullheight_mobile": false,
+        "slideshow_control_layout": "bottom",
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 7,
+        "style": "style-8",
+        "inner_space": true,
+        "per_row": "2",
+        "images_auto_height": true,
+        "images_auto_height_padding": 122,
+        "font_ratio": 164,
+        "per_row_mobile": "1",
+        "images_auto_height_mobile": false,
+        "images_auto_height_padding_mobile": 70,
+        "font_ratio_mobile": 160,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "lazyload": true,
+        "placeholder": true
+      }
+    },
+    "16648146006e0f0250": {
+      "type": "index-brands-carousel",
+      "blocks": {
+        "1664814600a37e3036-0": {
+          "type": "brand",
+          "settings": {
+            "title": "Garmeen",
+            "image": "shopify://shop_images/vendor-garmeen1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Garmeen"
+          }
+        },
+        "1664814600a37e3036-1": {
+          "type": "brand",
+          "settings": {
+            "title": "Kenwud",
+            "image": "shopify://shop_images/vendor-kenwud1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Kenwud"
+          }
+        },
+        "1664814600a37e3036-2": {
+          "type": "brand",
+          "settings": {
+            "title": "Logitek",
+            "image": "shopify://shop_images/vendor-logitek1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Logitek"
+          }
+        },
+        "1664814600a37e3036-3": {
+          "type": "brand",
+          "settings": {
+            "title": "Nikan",
+            "image": "shopify://shop_images/vendor-nikan1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Nikan"
+          }
+        },
+        "1664814600a37e3036-4": {
+          "type": "brand",
+          "settings": {
+            "title": "Nintembo",
+            "image": "shopify://shop_images/vendor-nintembo1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Nintembo"
+          }
+        },
+        "1664814600a37e3036-5": {
+          "type": "brand",
+          "settings": {
+            "title": "Realtak",
+            "image": "shopify://shop_images/vendor-realtak1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Realtak"
+          }
+        },
+        "9244216f-77ec-40b6-a800-2f13dd637881": {
+          "type": "brand",
+          "settings": {
+            "title": "Samsyng",
+            "image": "shopify://shop_images/vendor-samsyng1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Samsyng"
+          }
+        },
+        "c1eedd41-178e-47dd-ae1c-56728fbea4d7": {
+          "type": "brand",
+          "settings": {
+            "title": "Tochiba",
+            "image": "shopify://shop_images/vendor-tochiba1.png",
+            "color_placeholder": "",
+            "url": "https://lumia-theme.com/collections/electronics?filter.p.vendor=Tochiba"
+          }
+        }
+      },
+      "block_order": [
+        "1664814600a37e3036-0",
+        "1664814600a37e3036-1",
+        "1664814600a37e3036-2",
+        "1664814600a37e3036-3",
+        "1664814600a37e3036-4",
+        "1664814600a37e3036-5",
+        "9244216f-77ec-40b6-a800-2f13dd637881",
+        "c1eedd41-178e-47dd-ae1c-56728fbea4d7"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "layout": "grid_carousel",
+        "style": "circle",
+        "images_auto_height": true,
+        "images_auto_height_padding": 36,
+        "show_brands_auto": false,
+        "brands_auto_limit": 100,
+        "bg": "bg-white",
+        "border": "thick",
+        "slides_per_view": "6",
+        "slides_per_column": "1",
+        "slides_per_view_mobile": "2",
+        "slides_per_column_mobile": 2,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "button": false,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "1664814824614a445d": {
+      "type": "index-product-carousel",
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "limit": 6,
+        "slides_per_view": "4",
+        "compact": false,
+        "reverse": false,
+        "countdown": "none",
+        "heading_alignment": "left",
+        "heading": "Best Sellers",
+        "subtitle": "Subtitle",
+        "collection": "",
+        "banner": false,
+        "layout": "compact",
+        "color_placeholder": "",
+        "banner_title": "Best Offer",
+        "banner_subtitle": "DISCOUNT",
+        "invert_color": false,
+        "button": true,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": "",
+        "button_color": "btn--invert",
+        "image_bg_preset": "none",
+        "placeholder": true,
+        "hide_on_mobile": false
+      }
+    },
+    "1664814870e2e366ce": {
+      "type": "index-categories",
+      "blocks": {
+        "1664814870ccf7125c-0": {
+          "type": "category",
+          "settings": {
+            "title": "Womens",
+            "subtitle": "Smart HDR UHD",
+            "invert_color": true,
+            "image": "shopify://shop_images/category-circle-01_1c3497e6-b86e-4fc2-a4f3-fdfd74522308.png",
+            "color_placeholder": "#ffd339",
+            "url": "shopify://collections/electronics",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "1664814870ccf7125c-1": {
+          "type": "category",
+          "settings": {
+            "title": "Womens",
+            "subtitle": "Up To 50%OFF",
+            "invert_color": true,
+            "image": "shopify://shop_images/category-circle-02_28c48b03-a832-4729-9d3d-f0c5b2324e9c.png",
+            "color_placeholder": "#4a71fa",
+            "url": "shopify://collections/electronics",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "1664814870ccf7125c-2": {
+          "type": "category",
+          "settings": {
+            "title": "Womens",
+            "subtitle": "Fitness Watch",
+            "invert_color": true,
+            "image": "shopify://shop_images/category-circle-03_5776b503-f52a-4970-896f-0dcfadcd9ebb.png",
+            "color_placeholder": "#e344ae",
+            "url": "shopify://collections/electronics",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        }
+      },
+      "block_order": [
+        "1664814870ccf7125c-0",
+        "1664814870ccf7125c-1",
+        "1664814870ccf7125c-2"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "layout": "big_circles",
+        "carousel": false,
+        "style": "big",
+        "images_auto_height": true,
+        "images_auto_height_padding": 178,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "button": false,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "1664815268b20327a7": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "layout": "max_horizontal",
+        "limit": 8,
+        "per_row": "2",
+        "slides_per_column": "1",
+        "heading_alignment": "left",
+        "heading": "Special Offer",
+        "subtitle": "Subtitle",
+        "collection": "",
+        "banner": true,
+        "color_placeholder": "",
+        "banner_title": "SPECIAL OFFER",
+        "banner_subtitle": "Speakers",
+        "invert_color": true,
+        "button": true,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "1664815407b9f03994": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "layout": "mini_horizontal_banner",
+        "limit": 8,
+        "per_row": "4",
+        "slides_per_column": "2",
+        "heading_alignment": "left",
+        "heading": "Featured Items",
+        "subtitle": "Subtitle",
+        "collection": "",
+        "banner": true,
+        "image": "shopify://shop_images/banner-05_a21fd9b2-5b0f-463e-ace5-afc62bcba207.png",
+        "color_placeholder": "#4970f7",
+        "banner_title": "SPECIAL OFFER",
+        "banner_subtitle": "Speakers",
+        "invert_color": true,
+        "button": true,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": "shopify://collections/electronics"
+      }
+    },
+    "1664815641587113c9": {
+      "type": "index-reviews",
+      "blocks": {
+        "1664815641d769cff9-0": {
+          "type": "review",
+          "settings": {
+            "title": "Shannon Nelson",
+            "review": "An excellent ultrabook with high performance and good battery life. An ideal option if you need a compact mobile laptop that takes up little space at the workplace and a reliable travel companion.",
+            "invert_color": false,
+            "stars": 4,
+            "category": "LAPTOPS",
+            "product": "ultraportable-laptop",
+            "bg_preset": "bg-alt"
+          }
+        },
+        "1664815641d769cff9-3": {
+          "type": "review",
+          "settings": {
+            "title": "Charlie Gilbert",
+            "review": "After a week of use, I am completely satisfied with these headphones. The sound is good, at least in my opinion, they sit in the ears comfortably, they hold a charge for a long time, with average use. Overall, good headphones for the money",
+            "invert_color": false,
+            "stars": 5,
+            "category": "HEADSETS",
+            "product": "black-wireless-earburds",
+            "bg_preset": "bg-alt"
+          }
+        },
+        "1664815641d769cff9-2": {
+          "type": "review",
+          "settings": {
+            "title": "Josh Whitehead",
+            "review": "Very satisfied, weaned from wired. Short charging time. They sit well on the head, they are comfortable, the ears do not sweat, the weight is light, it is not heavy. Very comfortable to fold",
+            "invert_color": false,
+            "stars": 4,
+            "category": "HEADSETS",
+            "product": "electric-blue-headset",
+            "bg_preset": "bg-alt"
+          }
+        },
+        "1664815641d769cff9-4": {
+          "type": "review",
+          "settings": {
+            "title": "Janinka Bouman",
+            "review": "Good phone, all functions work great. Basically satisfied. Enough memory, camera standards, large screen, the battery lasts for several days.  But now a good brand phone with a large memory, a wide display and a battery is worth it.",
+            "invert_color": false,
+            "stars": 5,
+            "category": "MOBILE PHONES",
+            "product": "mobile-phone-5-2",
+            "bg_preset": "bg-alt"
+          }
+        },
+        "1664815641d769cff9-1": {
+          "type": "review",
+          "settings": {
+            "title": "Daisy Savage",
+            "review": "To be honest, I had my doubts about this purchase. But now in use for a little over a month and I am completely satisfied. The laptop is very fast and easy to use. At work I spend 10-12 hours behind him and my eyes say thank you after the previous one.",
+            "invert_color": false,
+            "stars": 5,
+            "category": "LAPTOPS",
+            "product": "flip-laptop",
+            "bg_preset": "bg-alt"
+          }
+        },
+        "b003d1e0-9286-43b2-a1e3-a14cd0d25452": {
+          "type": "review",
+          "settings": {
+            "title": "Eve Phillips",
+            "review": "Handy camera. You feel the difference in everything. Both the speed of work and the accuracy of focusing, and even the same reversible touch screen create complete comfort of work.",
+            "invert_color": false,
+            "stars": 4,
+            "category": "CAMERAS",
+            "product": "mini-camera",
+            "bg_preset": "bg-alt"
+          }
+        }
+      },
+      "block_order": [
+        "1664815641d769cff9-0",
+        "1664815641d769cff9-3",
+        "1664815641d769cff9-2",
+        "1664815641d769cff9-4",
+        "1664815641d769cff9-1",
+        "b003d1e0-9286-43b2-a1e3-a14cd0d25452"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "heading_alignment": "left",
+        "masonry": false,
+        "heading": "What People Say",
+        "subtitle": "Subtitle",
+        "button": true,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": "",
+        "button_target_blank": false
+      }
+    },
+    "166481632942984203": {
+      "type": "index-icons",
+      "blocks": {
+        "1664816329a5d76907-0": {
+          "type": "icon",
+          "settings": {
+            "icon": "icon-truck",
+            "icon_custom_svg": "",
+            "only_image": false,
+            "title": "FREE SHIPPING",
+            "subtitle": "When you spend $100+"
+          }
+        },
+        "1664816329a5d76907-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "icon-return",
+            "icon_custom_svg": "",
+            "only_image": false,
+            "title": "FREE RETURNS",
+            "subtitle": "Within 14 days"
+          }
+        },
+        "1664816329a5d76907-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "icon-secure",
+            "icon_custom_svg": "",
+            "only_image": false,
+            "title": "SECURED PAYMENTS",
+            "subtitle": "We are officially registered"
+          }
+        },
+        "1664816329a5d76907-3": {
+          "type": "icon",
+          "settings": {
+            "icon": "icon-support",
+            "icon_custom_svg": "",
+            "only_image": false,
+            "title": "SUPPORT 24/7",
+            "subtitle": "Ready to help our clients"
+          }
+        }
+      },
+      "block_order": [
+        "1664816329a5d76907-0",
+        "1664816329a5d76907-1",
+        "1664816329a5d76907-2",
+        "1664816329a5d76907-3"
+      ],
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 32,
+        "use_global_desktop_space_padding": false,
+        "spacing_padding_sections_mobile": 32,
+        "use_global_mobile_space_padding": false,
+        "background": true,
+        "heading_alignment": "center",
+        "layout": "layout_2",
+        "icons_font_size": "default",
+        "icons_background": false,
+        "icons_text_background": false,
+        "icons_bordered": false,
+        "under_slider": false,
+        "per_view": "4",
+        "per_view_mobile": "2",
+        "heading": "",
+        "subtitle": ""
+      }
+    },
+    "a3e9db57-c4fc-4e87-b637-38849026eb55": {
+      "type": "index-negative-space",
+      "settings": {
+        "spacing_sections": 0,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 0,
+        "use_global_mobile_space": true
+      }
+    },
+    "ba69b9ae-5bb7-4df0-9a69-0681743440d0": {
+      "type": "index-ticker",
+      "disabled": true,
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "text": "<em>Hot offers ticker section </em>                              <a href=\"https://shopify.pxf.io/c/2245513/1061744/13624\" target=\"_blank\" title=\"https://shopify.pxf.io/c/2245513/1061744/13624\"><strong>Start your free trial</strong> and enjoy 1 months of Shopify for <strong>$1</strong>/month on select plans.</a>",
+        "text_2": "",
+        "megaphone": false,
+        "badge_sale_ticker_speed": 6,
+        "under_slider": false
+      }
+    }
+  },
+  "order": [
+    "1664813384d2ca5ba6",
+    "16648142922478507c",
+    "16648146006e0f0250",
+    "1664814824614a445d",
+    "1664814870e2e366ce",
+    "1664815268b20327a7",
+    "1664815407b9f03994",
+    "1664815641587113c9",
+    "166481632942984203",
+    "a3e9db57-c4fc-4e87-b637-38849026eb55",
+    "ba69b9ae-5bb7-4df0-9a69-0681743440d0"
+  ]
+}

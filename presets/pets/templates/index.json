@@ -1,0 +1,554 @@
+{
+  "sections": {
+    "1664817116b60bcaaf": {
+      "type": "index-banner-grid",
+      "blocks": {
+        "1664817116018070b8-0": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide-01-pets.png",
+            "color_placeholder": "#ffffff",
+            "title": "Food for Your<br> Furry Friend",
+            "subtitle": "",
+            "invert_color": false,
+            "url": "https://shopify.pxf.io/c/2245513/1061744/13624",
+            "fast_shop": false,
+            "description": "Meat, vegetables, grains, and fruits are all included in high-quality dog food. The finest dog diets have healthy amounts of these components that are suitable for your dog's digestive system.",
+            "button": true,
+            "button_text": "Start trial store",
+            "button_target_blank": true,
+            "button_color": "btn--default",
+            "aligment": "left",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 40,
+            "left_padding": 0,
+            "top_padding": 5,
+            "image_mobile": "shopify://shop_images/slide-01-m_846475e6-860f-4563-a62b-4d7cb284a8b5.png",
+            "mobile_sync": false,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "top",
+            "aligment_text_mobile": "start",
+            "width_mobile": 55,
+            "left_padding_mobile": 2,
+            "top_padding_mobile": 8
+          }
+        },
+        "1664817116018070b8-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide-02_86b6c3d9-52ac-4f0c-a2c1-c76f7724ea41.png",
+            "color_placeholder": "#ffffff",
+            "title": "Healthy Nutrition for Happy Pets",
+            "subtitle": "",
+            "invert_color": false,
+            "url": "shopify://collections/pets",
+            "fast_shop": false,
+            "description": "Meat, vegetables, grains, and fruits are all included in high-quality dog food. The finest dog diets have healthy amounts of these components that are suitable for your dog's digestive system.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--white",
+            "aligment": "left",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 40,
+            "left_padding": 0,
+            "top_padding": 5,
+            "image_mobile": "shopify://shop_images/slide-02-m_2a043d78-23c5-4a29-a928-5fc685e45a03.png",
+            "mobile_sync": false,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "top",
+            "aligment_text_mobile": "start",
+            "width_mobile": 55,
+            "left_padding_mobile": 2,
+            "top_padding_mobile": 8
+          }
+        }
+      },
+      "block_order": [
+        "1664817116018070b8-0",
+        "1664817116018070b8-1",
+        "f178a008-2adf-46cd-93d8-df5fc410893f"
+      ],
+      "settings": {
+        "spacing_sections": 0,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 0,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": true,
+        "slider_bottom_ellipse": false,
+        "layout": "slideshow_fullheight",
+        "slideshow_fullheight_mobile": false,
+        "slideshow_control_layout": "bottom",
+        "slideshow_autoplay": true,
+        "style": "style-4",
+        "inner_space": false,
+        "per_row": "2",
+        "images_auto_height": true,
+        "images_auto_height_padding": 34,
+        "font_ratio": 82,
+        "per_row_mobile": "1",
+        "images_auto_height_mobile": true,
+        "images_auto_height_padding_mobile": 70,
+        "font_ratio_mobile": 100,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": ""
+      }
+    },
+    "1664817499263bd3a7": {
+      "type": "index-banner-grid",
+      "blocks": {
+        "1664817498cb1af4b5-0": {
+          "type": "banner",
+          "settings": {
+            "color_placeholder": "",
+            "title": "Special<br>Sale",
+            "subtitle": "Pets Food",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "middle",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664817498cb1af4b5-1": {
+          "type": "banner",
+          "settings": {
+            "color_placeholder": "",
+            "title": "Save Up<br>To 15% OFF",
+            "subtitle": "For Dog",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "middle",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664817498cb1af4b5-2": {
+          "type": "banner",
+          "settings": {
+            "color_placeholder": "",
+            "title": "Organic<br>Food",
+            "subtitle": "For Cat",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "middle",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "1664817498cb1af4b5-3": {
+          "type": "banner",
+          "settings": {
+            "color_placeholder": "",
+            "title": "Save Up<br>50% OFF",
+            "subtitle": "Pets Toys",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "center",
+            "aligment_v": "middle",
+            "aligment_text": "center",
+            "width": 100,
+            "left_padding": 5,
+            "top_padding": 5,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        }
+      },
+      "block_order": [
+        "1664817498cb1af4b5-0",
+        "1664817498cb1af4b5-1",
+        "1664817498cb1af4b5-2",
+        "1664817498cb1af4b5-3"
+      ],
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "slider_bottom_ellipse": false,
+        "layout": "grid",
+        "slideshow_fullheight_mobile": false,
+        "slideshow_control_layout": "bottom",
+        "slideshow_autoplay": true,
+        "style": "style-9",
+        "inner_space": true,
+        "per_row": "4",
+        "images_auto_height": true,
+        "images_auto_height_padding": 82,
+        "font_ratio": 168,
+        "per_row_mobile": "2",
+        "images_auto_height_mobile": true,
+        "images_auto_height_padding_mobile": 70,
+        "font_ratio_mobile": 168,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": ""
+      }
+    },
+    "1664817522f71d593a": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "layout": "default",
+        "limit": 8,
+        "per_row": "4",
+        "slides_per_column": "2",
+        "heading_alignment": "center",
+        "heading": "Best Sellers",
+        "subtitle": "best supplies for your small friends",
+        "collection": "",
+        "banner": true,
+        "color_placeholder": "",
+        "banner_title": "SPECIAL OFFER",
+        "banner_subtitle": "Speakers",
+        "invert_color": true,
+        "button": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "1664817619179cc61c": {
+      "type": "index-categories-styled",
+      "blocks": {
+        "16648176194854dc9f-0": {
+          "type": "category",
+          "settings": {
+            "reverse": false,
+            "image": "shopify://shop_images/product-circle-01.png",
+            "title": "Food for puppy",
+            "description": "Puppies should be fed puppy chow, a diet designed specifically to satisfy the nutritional requirements for healthy development. Your dog will lose valuable nutrients if you feed it adult food.",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "button": true,
+            "button_color": "btn--fifth"
+          }
+        },
+        "16648176194854dc9f-1": {
+          "type": "category",
+          "settings": {
+            "reverse": true,
+            "image": "shopify://shop_images/product-circle-02_c22a3cae-9b1e-45e2-a1bc-419ecb15d1a4.png",
+            "title": "Canned cat food",
+            "description": "You might be wondering whether cats require wet food if you've only ever given your cat dry kibble. In the wild, cats got the majority of the water they required for their bodies from their prey.",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "button": true,
+            "button_color": "btn--fifth"
+          }
+        },
+        "16648176194854dc9f-2": {
+          "type": "category",
+          "settings": {
+            "reverse": false,
+            "image": "shopify://shop_images/product-circle-03.png",
+            "title": "Food for dog",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alt",
+            "invert_color": true,
+            "url": "shopify://collections/pets",
+            "button": true,
+            "button_color": "btn--fifth"
+          }
+        }
+      },
+      "block_order": [
+        "16648176194854dc9f-0",
+        "16648176194854dc9f-1",
+        "16648176194854dc9f-2"
+      ],
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": true,
+        "heading_alignment": "center",
+        "heading": "Your Pet Expert",
+        "subtitle": "love them enough, give them the best",
+        "button": true,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "166481804805c929bc": {
+      "type": "index-welcome",
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 70,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 50,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "layout": "layout_4",
+        "heading_alignment": "center",
+        "reverse": false,
+        "heading": "elcome",
+        "subtitle": "Subtitle",
+        "description": "<p><strong>The company takes a responsible approach to all stages of production</strong>: veterinary control is carried out constantly. It is conducted by the veterinary administration. Accredited laboratories regularly check not only the finished product, but also the raw materials.</p>",
+        "invert_color": false,
+        "image_preset": "welcome-pets.png",
+        "image_bg_preset": "bg-welcome.png",
+        "image_bg_behaviour": "bg-contain",
+        "button": false,
+        "button_color": "btn--invert",
+        "button_text": "Read more",
+        "button_url": ""
+      }
+    },
+    "1664818125878cac9c": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "fluid": false,
+        "layout": "mini_horizontal",
+        "limit": 8,
+        "per_row": "4",
+        "slides_per_column": "2",
+        "heading_alignment": "center",
+        "heading": "What’s Pet Want",
+        "subtitle": "the right preference for pet owner",
+        "collection": "",
+        "banner": true,
+        "color_placeholder": "",
+        "banner_title": "SPECIAL OFFER",
+        "banner_subtitle": "Speakers",
+        "invert_color": true,
+        "button": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "16648181406c741a58": {
+      "type": "index-reviews",
+      "blocks": {
+        "1664818140615415e3-4": {
+          "type": "review",
+          "settings": {
+            "title": "Jennifer Foster",
+            "review": "Bought this food for our rats. Specifically, this food of this company for the first time. In my opinion, it did not live up to expectations. A huge amount of peanuts and large herbal granules, there are practically no other components. Our hamster doesn't eat peanuts or pellets. In order not to remain hungry, I had to buy other food.",
+            "invert_color": false,
+            "stars": 3,
+            "category": "MICE FOOD",
+            "product": "pets-mice-food",
+            "bg_preset": "none"
+          }
+        },
+        "1664818140615415e3-1": {
+          "type": "review",
+          "settings": {
+            "title": "Mari Sundstedt",
+            "review": "Thanks for the prompt delivery. Both packages are as advertised. The cat loves this food. Packed in film, branded tape. I have already ordered food from the company. Pleasant prices. I hope it continues to be so! Bought at a discount. For the money, a good product, I think we will take it again.",
+            "invert_color": false,
+            "stars": 5,
+            "category": "DOGS FOOD",
+            "product": "sterilized-cat-food",
+            "bg_preset": "none"
+          }
+        },
+        "1664818140615415e3-0": {
+          "type": "review",
+          "settings": {
+            "title": "Brooklyn Drijfhout",
+            "review": "The cat eats with pleasure and it is difficult to offer another, one might say useless. He likes to have two types of food in bowls, so I also choose with duck and liver or turkey. Always good appetite and playfulness with this food. They add something to it though. So I recommend if you love your pet.",
+            "invert_color": false,
+            "stars": 4,
+            "category": "CATS FOOD",
+            "product": "complete-cat-food",
+            "bg_preset": "none"
+          }
+        },
+        "1664818140615415e3-2": {
+          "type": "review",
+          "settings": {
+            "title": "Francesca Hunt",
+            "review": "Good food, my German Shepherd eats with pleasure, which makes me very happy, the price is nice! I use this food as the main food, but of course we eat natural food a couple of times a week! Six and the stomach is in the order of disorders in the shepherd dog after this there is no food.  I recommend it, I will definitely order again.",
+            "invert_color": false,
+            "stars": 4,
+            "category": "DRY FOOD",
+            "product": "premum-dog-food",
+            "bg_preset": "none"
+          }
+        },
+        "1664818140615415e3-5": {
+          "type": "review",
+          "settings": {
+            "title": "Francesca Young",
+            "review": "It looks great. The cat is 6 months old, unfortunately, he is not yet interested in either the balls or the column itself, he is more interested in chasing anything else around the apartment, and jumping madly on the chair, sharpening his claws))) I hope that in the future he will also use the column.",
+            "invert_color": false,
+            "stars": 4,
+            "category": "CATS TOY",
+            "product": "cat-scratching-post",
+            "bg_preset": "none"
+          }
+        },
+        "1664818140615415e3-3": {
+          "type": "review",
+          "settings": {
+            "title": "Chloe Field",
+            "review": "Both I and the cats liked the house) They helped me assemble it very actively, then they couldn't share it (it's good that I ordered the same fortress together with it). Then, as the excitement passed, they periodically: sleep in it, fight, ignore, guard))",
+            "invert_color": false,
+            "stars": 5,
+            "category": "DOGS FOOD",
+            "product": "indoor-cat-house",
+            "bg_preset": "none"
+          }
+        }
+      },
+      "block_order": [
+        "1664818140615415e3-4",
+        "1664818140615415e3-1",
+        "1664818140615415e3-0",
+        "1664818140615415e3-2",
+        "1664818140615415e3-5",
+        "1664818140615415e3-3"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "heading_alignment": "center",
+        "heading": "What People Say",
+        "subtitle": "Subtitle",
+        "button": false,
+        "button_text": "View all",
+        "button_url": "",
+        "button_target_blank": false
+      }
+    },
+    "a3866d57-2943-4898-9432-f45c4d3577b7": {
+      "type": "index-ticker",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "text": "<em>Hot offers ticker section </em>                              <a href=\"https://shopify.pxf.io/c/2245513/1061744/13624\" target=\"_blank\" title=\"https://shopify.pxf.io/c/2245513/1061744/13624\"><strong>Start your free trial</strong> and enjoy 1 months of Shopify for <strong>$1</strong>/month on select plans.</a>",
+        "badge_sale_ticker_speed": 10,
+        "under_slider": false
+      }
+    },
+    "1eefed8b-ef5a-47a5-8652-8cd5e500c7fb": {
+      "type": "index-negative-space",
+      "settings": {}
+    }
+  },
+  "order": [
+    "1664817116b60bcaaf",
+    "1664817499263bd3a7",
+    "1664817522f71d593a",
+    "1664817619179cc61c",
+    "166481804805c929bc",
+    "1664818125878cac9c",
+    "16648181406c741a58",
+    "a3866d57-2943-4898-9432-f45c4d3577b7",
+    "1eefed8b-ef5a-47a5-8652-8cd5e500c7fb"
+  ]
+}

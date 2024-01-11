@@ -1,0 +1,980 @@
+{
+  "sections": {
+    "47f7a082-1ba5-4620-b2ff-0ed90a83803e": {
+      "type": "index-categories",
+      "blocks": {
+        "dc753e39-547e-47ac-966b-e647b55347bd": {
+          "type": "category",
+          "settings": {
+            "title": "Steering Wheels",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-4.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "0d98d813-886f-4b62-a5c3-8360e220be16": {
+          "type": "category",
+          "settings": {
+            "title": "Mouse Pads",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-3.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "617c3c4d-76c9-4a85-ac8c-c0503a38f92d": {
+          "type": "category",
+          "settings": {
+            "title": "VR Boxes",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-2.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "d0fc3b38-838b-405c-95e3-6b9dcd690356": {
+          "type": "category",
+          "settings": {
+            "title": "Keyboards",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-7.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "88b50504-dbf5-4f2a-923d-d6ce6ae9b032": {
+          "type": "category",
+          "settings": {
+            "title": "Headsets",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-5.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "225a1c1d-21d5-41d2-ae47-7d2741622d52": {
+          "type": "category",
+          "settings": {
+            "title": "Game Pads",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-6.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "779f0dc6-a451-4c22-b0a9-a7dfaad32bea": {
+          "type": "category",
+          "settings": {
+            "title": "Chairs",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-8.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        },
+        "9a50fd79-ec53-4e7c-b18e-ef6cd7582ff9": {
+          "type": "category",
+          "settings": {
+            "title": "Gaming Mice",
+            "subtitle": "Subtitle",
+            "invert_color": true,
+            "color_title": "",
+            "color_subtitle": "",
+            "image": "shopify://shop_images/games-category-1.png",
+            "color_placeholder": "",
+            "url": "shopify://collections/gamers",
+            "sub_caption_1": "New items",
+            "sub_caption_1_count": "77",
+            "sub_caption_2": "Sale items",
+            "sub_caption_2_count": "21"
+          }
+        }
+      },
+      "block_order": [
+        "dc753e39-547e-47ac-966b-e647b55347bd",
+        "0d98d813-886f-4b62-a5c3-8360e220be16",
+        "617c3c4d-76c9-4a85-ac8c-c0503a38f92d",
+        "d0fc3b38-838b-405c-95e3-6b9dcd690356",
+        "88b50504-dbf5-4f2a-923d-d6ce6ae9b032",
+        "225a1c1d-21d5-41d2-ae47-7d2741622d52",
+        "779f0dc6-a451-4c22-b0a9-a7dfaad32bea",
+        "9a50fd79-ec53-4e7c-b18e-ef6cd7582ff9"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 80,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 45,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "layout": "title_under_rectangular",
+        "carousel": true,
+        "style": "tiny",
+        "images_auto_height": true,
+        "images_auto_height_padding": 100,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "button": false,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": "",
+        "autoload": false,
+        "collection_list": []
+      }
+    },
+    "c5397955-af83-4842-a144-45e888f62326": {
+      "type": "index-ticker",
+      "settings": {
+        "spacing_sections": 70,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 50,
+        "use_global_mobile_space": false,
+        "layout": "large",
+        "text": "LAST CHANCE FOR <a href=\"/collections/gamers\" title=\"Gamers\">UP TO  60%</a>",
+        "color_text": "rgba(0,0,0,0)",
+        "text_2": "",
+        "megaphone": true,
+        "badge_sale_ticker_speed": 20,
+        "under_slider": false,
+        "countdown": false,
+        "countdown_period": "none",
+        "countdown_text": "** Use Cupone Code  <span class=\"theme-color\">CYBER</span>",
+        "color_countdown_text": "",
+        "button": false,
+        "button_text": "View all sales",
+        "button_url": "",
+        "button_color": "btn--invert",
+        "image_bg_preset": "none"
+      }
+    },
+    "2ece5567-e350-4640-9474-9a0c484a1fec": {
+      "type": "index-banner-grid",
+      "blocks": {
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide1_d37eaee0-1f07-4cac-a40e-a3ab30a2a707.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "Game Pad",
+            "subtitle": "StealthPro X1",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://products/play-station",
+            "fast_shop": false,
+            "description": "Wireless Connectivity<br>                                         Ergonomic Design<br>                                         Precision Control<br>                                         Customizable Back Buttons<br>                                         Integrated Rechargeable Battery",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "left",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 100,
+            "left_padding": 8,
+            "top_padding": 14,
+            "image_mobile": "shopify://shop_images/slide1-m.png",
+            "mobile_sync": false,
+            "aligment_mobile": "center",
+            "aligment_v_mobile": "bottom",
+            "aligment_text_mobile": "center",
+            "width_mobile": 100,
+            "left_padding_mobile": 5,
+            "top_padding_mobile": 30
+          }
+        },
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-2": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide2_4deaf18b-2051-4b91-b6bf-f44cbfd2a23b.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "Gaming Mouse",
+            "subtitle": "HyperStrike M7",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://products/gamer-mouse",
+            "fast_shop": false,
+            "description": "High-Precision Sensor<br>\n                                        Customizable RGB Lighting<br>\n                                        Ergonomic Design<br>\n                                        Programmable Buttons<br>\n                                        On-the-Fly Profile Switching",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "left",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 100,
+            "left_padding": 8,
+            "top_padding": 14,
+            "image_mobile": "shopify://shop_images/slide2-m.png",
+            "mobile_sync": false,
+            "aligment_mobile": "center",
+            "aligment_v_mobile": "bottom",
+            "aligment_text_mobile": "center",
+            "width_mobile": 100,
+            "left_padding_mobile": 5,
+            "top_padding_mobile": 30
+          }
+        },
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-3": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/slide3.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "Headset",
+            "subtitle": "SonicWave Pro X7",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://products/gamers-headset",
+            "fast_shop": false,
+            "description": "Crystal-Clear Microphone<br>\n                                        Immersive 7.1 Surround Sound<br>\n                                        Comfortable Design<br>\n                                        Customizable Lighting<br>\n                                        Durable Build",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "left",
+            "aligment_v": "middle",
+            "aligment_text": "start",
+            "width": 100,
+            "left_padding": 8,
+            "top_padding": 14,
+            "image_mobile": "shopify://shop_images/slide3-m.png",
+            "mobile_sync": false,
+            "aligment_mobile": "center",
+            "aligment_v_mobile": "bottom",
+            "aligment_text_mobile": "center",
+            "width_mobile": 100,
+            "left_padding_mobile": 5,
+            "top_padding_mobile": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-1",
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-2",
+        "template--17038648967453__2ece5567-e350-4640-9474-9a0c484a1fec-banner-3"
+      ],
+      "settings": {
+        "spacing_sections": 70,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 50,
+        "use_global_mobile_space": false,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "fluid": false,
+        "inner_space": true,
+        "boxed": true,
+        "slider_bottom_ellipse": false,
+        "layout": "slideshow_modern",
+        "slideshow_fullheight_mobile": false,
+        "slideshow_control_layout": "bottom",
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 7,
+        "style": "style-7",
+        "per_row": "2",
+        "images_auto_height": true,
+        "images_auto_height_padding": 56,
+        "font_ratio": 86,
+        "per_row_mobile": "1",
+        "images_auto_height_mobile": true,
+        "images_auto_height_padding_mobile": 150,
+        "font_ratio_mobile": 130,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "lazyload": true,
+        "placeholder": true
+      }
+    },
+    "d25a22b7-0755-4e58-9bb8-ab6afd832f3b": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "fluid": false,
+        "layout": "default",
+        "mini_horizontal_banner_reversed": false,
+        "limit": 8,
+        "per_row": "4",
+        "slides_per_column": "2",
+        "heading_alignment": "center",
+        "heading": "Get Ready for a Winning",
+        "subtitle": "",
+        "collection": "",
+        "banner": true,
+        "color_placeholder": "",
+        "banner_title": "SPECIAL OFFER",
+        "banner_subtitle": "Speakers",
+        "invert_color": true,
+        "button": false,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "d897c12f-0e00-4147-affe-e8d03ee26b70": {
+      "type": "index-banner-grid",
+      "blocks": {
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/games-banner-01.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "HEADSETS",
+            "subtitle": "Experience Sound Like Never Before",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/gamers",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "left",
+            "aligment_v": "top",
+            "aligment_text": "start",
+            "width": 70,
+            "left_padding": 11,
+            "top_padding": 11,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-2": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/games-banner-03.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "NEW MICE",
+            "subtitle": "Unleash Your Gaming Potential",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/gamers",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--white",
+            "aligment": "left",
+            "aligment_v": "top",
+            "aligment_text": "start",
+            "width": 70,
+            "left_padding": 11,
+            "top_padding": 11,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-3": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/games-banner-02.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "VR BOXES",
+            "subtitle": "Step into Virtual<br>Reality",
+            "invert_color": false,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/gamers",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--grey",
+            "aligment": "left",
+            "aligment_v": "top",
+            "aligment_text": "start",
+            "width": 70,
+            "left_padding": 11,
+            "top_padding": 11,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        },
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-4": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/games-banner-04.png",
+            "video_loop": false,
+            "color_placeholder": "",
+            "title": "GAMES",
+            "subtitle": "Immerse Yourself<br>in Adventures",
+            "invert_color": true,
+            "custom_caption_colorization": false,
+            "color_title": "",
+            "color_subtitle": "",
+            "color_description": "",
+            "url": "shopify://collections/gamers",
+            "fast_shop": false,
+            "description": "Suspendisse ultrices viverra nibh in mollis quisque dictum mattis elementum mauris in luctus diam.",
+            "button": true,
+            "button_text": "",
+            "button_target_blank": false,
+            "button_color": "btn--invert",
+            "aligment": "left",
+            "aligment_v": "top",
+            "aligment_text": "start",
+            "width": 70,
+            "left_padding": 11,
+            "top_padding": 11,
+            "mobile_sync": true,
+            "aligment_mobile": "left",
+            "aligment_v_mobile": "middle",
+            "aligment_text_mobile": "start",
+            "width_mobile": 100,
+            "left_padding_mobile": 14,
+            "top_padding_mobile": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-1",
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-2",
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-3",
+        "template--17038648967453__d897c12f-0e00-4147-affe-e8d03ee26b70-banner-4"
+      ],
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "fluid": true,
+        "inner_space": true,
+        "boxed": true,
+        "slider_bottom_ellipse": false,
+        "layout": "grid",
+        "slideshow_fullheight_mobile": false,
+        "slideshow_control_layout": "bottom",
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 7,
+        "style": "style-15",
+        "per_row": "4",
+        "images_auto_height": true,
+        "images_auto_height_padding": 70,
+        "font_ratio": 152,
+        "per_row_mobile": "1",
+        "images_auto_height_mobile": true,
+        "images_auto_height_padding_mobile": 70,
+        "font_ratio_mobile": 144,
+        "heading_alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "lazyload": true,
+        "placeholder": true
+      }
+    },
+    "6a154f79-1065-4afa-b7ce-5b3b633024ae": {
+      "type": "index-ticker",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "layout": "large",
+        "text": "❅   CHRISTMAS <a href=\"https://shopify.pxf.io/c/2245513/1061744/13624\" target=\"_blank\" title=\"https://shopify.pxf.io/c/2245513/1061744/13624\">SALE</a>   ❅",
+        "color_text": "rgba(0,0,0,0)",
+        "text_2": "",
+        "megaphone": false,
+        "badge_sale_ticker_speed": 18,
+        "under_slider": false,
+        "countdown": true,
+        "countdown_period": "year",
+        "countdown_text": "** Use Cupone Code  <span class=\"theme-color\">2024</span>",
+        "color_countdown_text": "#ffffff",
+        "button": true,
+        "button_text": "View all sales",
+        "button_url": "#",
+        "button_color": "btn--default",
+        "image_bg_preset": "counter-bg.png",
+        "image_bg": "shopify://shop_images/counter-bg.png"
+      }
+    },
+    "a34fd423-7ac9-4ea2-8d26-e409f23b167e": {
+      "type": "index-product-grid",
+      "settings": {
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "fluid": false,
+        "layout": "mini_horizontal_banner",
+        "mini_horizontal_banner_reversed": true,
+        "limit": 10,
+        "per_row": "4",
+        "slides_per_column": "2",
+        "heading_alignment": "left",
+        "heading": "The Best Choice",
+        "subtitle": "",
+        "collection": "",
+        "banner": true,
+        "image": "shopify://shop_images/games-banner-05.png",
+        "image_2": "shopify://shop_images/games-banner-06.png",
+        "color_placeholder": "",
+        "banner_title": "SPECIAL FOR GAMERS",
+        "banner_subtitle": "Limited offer",
+        "invert_color": true,
+        "button": true,
+        "button_bottom_on_mobile": false,
+        "button_text": "View all",
+        "button_url": ""
+      }
+    },
+    "c47a8a68-f5c2-4738-9bc6-86231bb023e0": {
+      "type": "index-faq",
+      "blocks": {
+        "e6b7928b-9343-4981-ad63-8812d73fd27b": {
+          "type": "qa",
+          "settings": {
+            "title": "Why was the computer mouse called a mouse and not a hamster?",
+            "answer": "<p>The computer mouse was named by its inventor, Douglas Engelbart, who developed the device in the 1960s. The name \"mouse\" was inspired by the device's cord, which resembled a tail. Engelbart thought the way the device moved on a surface, coupled with the cord trailing behind it, resembled the movement of a rodent.</p><p>This naming choice was not predetermined; it was a result of Engelbart and his team seeking a term that could capture the essence of the device's functionality in an easily understandable and memorable way. The \"mouse\" name stuck, and it has been used ever since to refer to the hand-held pointing device used to interact with computers.</p><p>While the name \"mouse\" might seem curious given the lack of a tail or a resemblance to an actual mouse, it has become a widely accepted term in the world of computing. The decision likely reflects the desire for a simple and catchy name rather than a detailed resemblance to the animal.</p>",
+            "category": "Technical"
+          }
+        },
+        "639fe7c8-382f-42fc-9918-b8070dfc1ad8": {
+          "type": "qa",
+          "settings": {
+            "title": "My cat sleeps on the keyboard, is this dangerous?",
+            "answer": "<p>Having your cat sleep on the keyboard might not be inherently dangerous, but it can pose some risks and inconveniences. Here are a few considerations:</p><p></p><ol><li><strong>Accidental Key Presses:</strong> Cats may inadvertently press keys, causing unintended actions on your computer. This could lead to unexpected changes in settings, accidental file deletions, or even triggering certain functions.</li><li><strong>Hair and Dirt Accumulation:</strong> Cats can shed fur, and their paws may carry dirt or debris. Over time, this can accumulate in and around the keyboard, potentially affecting its performance.</li><li><strong>Hygiene Concerns:</strong> If your cat is shedding excessively or has been outside, having them on the keyboard could transfer dirt or allergens to your hands when you use the keyboard later.</li><li><strong>Potential for Discomfort:</strong> While most keyboards are not harmful to cats, it's essential to ensure that your feline friend is comfortable. Avoid using keyboards with sharp edges, and make sure the surface isn't too hot if the keyboard has been in use.</li></ol><p>To mitigate these concerns, you might consider providing a comfortable cat bed or blanket near your workspace to encourage your cat to settle there instead. Regularly clean your keyboard to prevent debris buildup, and be cautious about leaving your computer unattended to avoid any unintended actions caused by your cat's presence.</p>",
+            "category": "Technical"
+          }
+        },
+        "b20db45f-2e35-4fee-a9c5-64ed4dea71f6": {
+          "type": "qa",
+          "settings": {
+            "title": "Is it possible to go into virtual reality and not come back?",
+            "answer": "<p>No, it is not possible to enter virtual reality and not come back in the sense of permanently losing connection with the real world. Virtual reality (VR) is a technology that immerses users in a computer-generated environment, but it is a controlled and temporary experience.</p><p>When individuals use VR devices, they are still physically present in the real world, and the experience is typically confined to a set time frame. VR is a form of escapism, providing users with immersive and interactive experiences, but it doesn't replace or disconnect them from reality permanently.</p><p>It's important to distinguish between the virtual world and the real world. While VR can offer a compelling and realistic experience, users are always aware of their physical surroundings and can return to the real world simply by removing the VR headset.</p><p>However, there have been cases where individuals might become overly engrossed or addicted to virtual experiences, impacting their real-world responsibilities and relationships. Responsible and moderate use of VR is recommended to ensure a healthy balance between virtual and real-life experiences.</p>",
+            "category": "Technical"
+          }
+        },
+        "7422155d-a3c8-4766-a7a8-296dc280d381": {
+          "type": "qa",
+          "settings": {
+            "title": "Where do shooting stars come from?",
+            "answer": "<p>Shooting stars, also known as meteors, are not stars at all. Instead, they are small particles or debris from space that enters the Earth's atmosphere and burns up upon friction with the air. The technical term for these bright streaks of light is \"meteoroid\" when they are in space, \"meteor\" when they enter Earth's atmosphere, and \"meteorite\" if they survive the journey through the atmosphere and land on Earth.</p><p>Meteoroids are typically remnants from comets or asteroids. When comets orbit the Sun, they release dust and small particles, creating a trail of debris. If the Earth passes through this debris trail, the particles can enter our atmosphere, creating meteors.</p><p>Similarly, asteroids, which are rocky or metallic objects orbiting the Sun, can shed debris. When Earth intersects the orbit of an asteroid or passes through a debris field left by an asteroid, meteoroids from these sources can also result in meteors.</p><p>The friction generated as these small particles travel through the Earth's atmosphere at high speeds causes them to heat up and glow, creating the visible streaks of light we observe as shooting stars or meteors. The size of the meteoroid determines how bright and long-lasting the meteor will be. Smaller meteoroids tend to burn up more quickly, creating brief, bright streaks, while larger ones may produce more prolonged and vibrant displays.</p>",
+            "category": "Astronomy"
+          }
+        },
+        "5e1d24c1-25b4-4617-9fea-66f219aeb24d": {
+          "type": "qa",
+          "settings": {
+            "title": "What is a terminator?",
+            "answer": "<p>Terminator (from lat. terminare - to stop) - a line of light separation that separates the illuminated (light) part of the body (for example, the cosmic body) from the unlit (dark) part. The terminator of a spherical body is always observed as a semi-ellipse, taking the form of a straight line at the end of the first and the beginning of the last quarters.</p>",
+            "category": "Astronomy"
+          }
+        },
+        "0158a499-f132-464c-8631-6ba8da4a0eeb": {
+          "type": "qa",
+          "settings": {
+            "title": "Who Invented the Zodiac Signs?",
+            "answer": "<p>The Sumerians were the first to divide the sky into twelve \"windows\" and group the stars about five thousand years ago. It was they who endowed each constellation with an expressive symbol and name and compared it with the events of the surrounding nature. Later, the ancient Greeks borrowed the idea of the “zodiac” (literally, “a circle of animals”) from their descendants from Mesopotamia and attributed a charismatic legend to each sign.</p>",
+            "category": "Astronomy"
+          }
+        },
+        "a9bd699e-0c7a-4726-8ad5-11be955fc0d4": {
+          "type": "qa",
+          "settings": {
+            "title": "What is Shopify?",
+            "answer": "<p>Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. Shopify is the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.</p>",
+            "category": "Business"
+          }
+        },
+        "7d157ba2-5326-471c-b6c1-6cf3f5dd83e4": {
+          "type": "qa",
+          "settings": {
+            "title": "What is a business plan?",
+            "answer": "<p>A business plan is a detailed description of your project with calculations and perspectives for the next few years. It is needed by potential investors or the bank to which you will go for a loan; partners, intermediaries, your team and, in the end, you as the creator of the project. A business plan is usually written three to five years in advance.</p>",
+            "category": "Business"
+          }
+        },
+        "3171fa5a-c74e-4318-88c2-5a19887e997a": {
+          "type": "qa",
+          "settings": {
+            "title": "Why is Shopify so popular? What is its specialty?",
+            "answer": "<p>Shopify is a popular e-commerce platform known for its user-friendly interface and comprehensive set of tools that make it easy for individuals and businesses to set up and manage their online stores. Several factors contribute to Shopify's popularity:</p><p></p><ol><li><strong>Ease of Use:</strong> Shopify is designed with simplicity in mind. It provides a user-friendly interface that allows users with varying levels of technical expertise to set up and manage their online stores without the need for extensive coding knowledge.</li><li><strong>Versatility:</strong> Shopify caters to businesses of all sizes, from small startups to large enterprises. It supports a wide range of industries and types of products, including physical goods, digital products, and services.</li><li><strong>Customization:</strong> While being user-friendly, Shopify also offers a high degree of customization. Users can choose from a variety of templates and themes to create a unique look for their stores. Additionally, there are numerous apps and plugins available to extend the functionality of a Shopify store.</li><li><strong>Payment Options:</strong> Shopify integrates with a variety of payment gateways, making it easy for businesses to accept payments online. It also supports major credit cards and allows for the integration of alternative payment methods.</li><li><strong>Security:</strong> Security is a top priority for any online business, and Shopify provides a secure environment for transactions. It is a hosted solution, meaning that Shopify takes care of the technical aspects, including security updates and maintenance.</li></ol><p>In summary, Shopify's specialty lies in providing a user-friendly, customizable, and scalable e-commerce platform that caters to a diverse range of businesses, from small ventures to large enterprises. Its features, coupled with ongoing improvements and support, contribute to its widespread popularity in the e-commerce space.</p>",
+            "category": "Business"
+          }
+        }
+      },
+      "block_order": [
+        "e6b7928b-9343-4981-ad63-8812d73fd27b",
+        "639fe7c8-382f-42fc-9918-b8070dfc1ad8",
+        "b20db45f-2e35-4fee-a9c5-64ed4dea71f6",
+        "7422155d-a3c8-4766-a7a8-296dc280d381",
+        "5e1d24c1-25b4-4617-9fea-66f219aeb24d",
+        "0158a499-f132-464c-8631-6ba8da4a0eeb",
+        "a9bd699e-0c7a-4726-8ad5-11be955fc0d4",
+        "7d157ba2-5326-471c-b6c1-6cf3f5dd83e4",
+        "3171fa5a-c74e-4318-88c2-5a19887e997a"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "layout": "2",
+        "search": false,
+        "search_bg": false,
+        "categories": true,
+        "collapsible_tabs": true,
+        "collapsible_tabs_style": "bg",
+        "heading": "Have a Question? Look here"
+      }
+    },
+    "f458fdfd-82ac-4388-9e8a-a5f5763ffd01": {
+      "type": "index-gallery",
+      "blocks": {
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen1.png",
+            "color_placeholder": "",
+            "title": "#image1",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen3.png",
+            "color_placeholder": "",
+            "title": "#image2",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen5.png",
+            "color_placeholder": "",
+            "title": "#image3",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen11.png",
+            "color_placeholder": "",
+            "title": "#image4",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen6.png",
+            "color_placeholder": "",
+            "title": "#image5",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen4.png",
+            "color_placeholder": "",
+            "title": "#image6",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen7.png",
+            "color_placeholder": "",
+            "title": "#image7",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen2.png",
+            "color_placeholder": "",
+            "title": "#image8",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen12.png",
+            "color_placeholder": "",
+            "title": "#image9",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-10": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen8.png",
+            "color_placeholder": "",
+            "title": "#image10",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-11": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen10.png",
+            "color_placeholder": "",
+            "title": "#image11",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        },
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-12": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/games-screen9.png",
+            "color_placeholder": "",
+            "title": "#image12",
+            "description": "Lorem ipsum dolor sit adipiscing elit, sed",
+            "link": "shopify://products/space-game"
+          }
+        }
+      },
+      "block_order": [
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-1",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-2",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-3",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-4",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-5",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-6",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-7",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-8",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-9",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-10",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-11",
+        "template--17038648967453__f458fdfd-82ac-4388-9e8a-a5f5763ffd01-image-12"
+      ],
+      "settings": {
+        "section_width": "global",
+        "container_max_width": 1178,
+        "spacing_sections": 100,
+        "use_global_desktop_space": true,
+        "spacing_sections_mobile": 70,
+        "use_global_mobile_space": true,
+        "spacing_padding_sections": 100,
+        "use_global_desktop_space_padding": true,
+        "spacing_padding_sections_mobile": 70,
+        "use_global_mobile_space_padding": true,
+        "background": false,
+        "background_preset": "none",
+        "background_behavior": "bg-cover",
+        "section_decoration_top": "none",
+        "section_decoration_top_color_type": "color_global_primary_bg",
+        "section_decoration_top_color": "",
+        "section_decoration_bottom": "none",
+        "section_decoration_bottom_color_type": "color_global_primary_bg",
+        "section_decoration_bottom_color": "",
+        "section_animation": true,
+        "columns": "3",
+        "ticker_mode": true,
+        "heading_alignment": "center",
+        "heading": "Immerse Yourself in Adventures",
+        "subtitle": ""
+      }
+    },
+    "0309442d-9ab6-4f61-81ae-27f1ff319919": {
+      "type": "index-negative-space",
+      "settings": {
+        "spacing_sections": 60,
+        "use_global_desktop_space": false,
+        "spacing_sections_mobile": 0,
+        "use_global_mobile_space": true
+      }
+    }
+  },
+  "order": [
+    "47f7a082-1ba5-4620-b2ff-0ed90a83803e",
+    "c5397955-af83-4842-a144-45e888f62326",
+    "2ece5567-e350-4640-9474-9a0c484a1fec",
+    "d25a22b7-0755-4e58-9bb8-ab6afd832f3b",
+    "d897c12f-0e00-4147-affe-e8d03ee26b70",
+    "6a154f79-1065-4afa-b7ce-5b3b633024ae",
+    "a34fd423-7ac9-4ea2-8d26-e409f23b167e",
+    "c47a8a68-f5c2-4738-9bc6-86231bb023e0",
+    "f458fdfd-82ac-4388-9e8a-a5f5763ffd01",
+    "0309442d-9ab6-4f61-81ae-27f1ff319919"
+  ]
+}

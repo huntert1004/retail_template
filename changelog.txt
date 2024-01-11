@@ -1,0 +1,527 @@
+Version 3.0.0 from 2023-12-06
+- ADDED: New skin Natural Cosmetics
+- ADDED: New skin Games Electronics
+- ADDED: new categories section Categories / preset Title under (circle, 8 in row)
+- ADDED: new slideshow section Slideshow / preset 10 Modern (Games ex.)
+- ADDED: new ticker section Ticker - Large
+- ADDED: new ticker section Ticker - Large + Countdown
+- ADDED: new banners section Slideshow / preset 10 Modern (Games ex.)
+- ADDED: Revers option for section Products grid - Mini horizontal with banner
+- ADDED: New style for Collapsible FAQ
+- ADDED: New Faq preset section Faq / preset 6 Tabbed list - Collapsible Style 2
+- ADDED: News section Gallery - Ticker
+- ADDED: News options for default Gallery section Ticker mode
+- ADDED: new banners section Banners / preset 15 (Cosmetics ex. mosaic 2+3+2)
+- ADDED: Video support in all banner sections
+- ADDED: New section Features list - Circle
+- ADDED: "Before -> After" support for all image + text sections
+- ADDED: Option to hide empty categories in navigation
+- ADDED: All sections custom background image support
+- ADDED: Localization for date in blog
+- IMPROVED: Product price 'from' in products with diff prices
+
+
+Version 2.2.3 from 2023-11-20
+- ADDED: Section decorators system
+- ADDED: Font-size interface in sections Single product
+- ADDED: Ukrainian localization
+- ADDED: Custom product badges
+- ADDED: New section on the default home page
+- IMPROVED: Slideshow image quality when boxed mode
+- IMPROVED: SEO  h1 on the collection page
+- IMPROVED: Footer payments quality
+- IMPROVED: Collection options Enable sorting / Enable sidebar
+- IMPROVED: Lookbook image quality when 1 per row
+- IMPROVED: RTL support is added for localization he-IL
+- IMPROVED: Text with Image sections - added image bg loader colorization
+- FIXED: Wishlist dropdown was empty when header layout 5 was enabled
+
+
+Version 2.2.2 from 2023-10-26
+https://big-skins.com/frontend/lumia-shopify-changelog/ (visual)
+- ADDED: Option 'View product' instead of 'Add to cart' for product cards
+- ADDED: Additional navigation only for Mobile and option to divide desktop and mobile navigations
+- ADDED: 3rd level navigation support for categories dropdown in header layout 2
+- ADDED: Collections autoloader in all categories sections
+- ADDED: Option to make collections sidebar always visible (strictly)
+- ADDED: Opacity for categories section layout - Big circles
+- ADDED: New advanced section Search with different presets
+- ADDED: Option to show prev next products on mobile
+- ADDED: Full control of product swatches design - customize as you need
+- ADDED: New sticky header for header 5
+- ADDED: Section lookbook - 1 per row option
+- IMPROVED: Product card - Combined layout
+
+
+Version 2.2.1 from 2023-10-17
+https://big-skins.com/frontend/lumia-shopify-changelog/ (visual)
+- ADDED: Full product inventory control - show/hide quantity fields in different product cards
+- ADDED: Option show/hide checkout agreement (I agree with store policies) individually on the product page
+- ADDED: Option individual colorization for categories sections
+- ADDED: Compact sticky add to cart (auto enabling for products with only one default variant and with disabled icons in the sticky)
+- ADDED: Complementary products support for frequently bought together widgets. Sync with Search & Discovery app - recommendations.
+- ADDED: New Faq preset - collapsible answers
+- ADDED: Option individual colorization for Single product sections
+
+- ADDED: Frequently bought together widget is enabled by default without setup on the product page and in the cart
+- IMPROVED: Section categories - layout Informative
+- IMPROVED: fonts.googleapis.com pre-connect disabled if no Google fonts enabled
+- IMPROVED: Cover image for video sections
+- FIXED: Collection sidebar filter if only categories filter enabled
+- FIXED: Option - Enable soft appearance of sections
+
+
+Version 2.2.0 from 2023-10-08
+- ADDED: Option to search only products (without infor pages and blog articles)
+- ADDED: Option to show/hide collection description globally
+- ADDED: New planet icon + option to show icon instead of 'Lang, Currency' text on mobile in burger menu
+- ADDED: Option for fast megamenu catalog popup loading
+- ADDED: Option to disable product image zoom
+- ADDED: New product card layout - Combined
+- ADDED: Extended colorization control of  bottom navigation on mobile 
+- ADDED: Collapsible answers option in the faq sections
+- ADDED: Options for open search on mobile
+- IMPROVED: Closed / Open state of the collection sidebar filter
+- IMPROVED: Shipping calculator
+- FIXED: Product crossed-out options when a product has three options
+
+
+Version 2.1.9 from 2023-09-29
+- ADDED: Badges support in the footer navigation
+- ADDED: Options to control announcements-bar height/font-size on mobile/desktop
+- ADDED: New X icon instead of old Twitter icon
+- ADDED: Independent method to reload theme cart and show side popup - best solution for 3rd part apps that have add-to-cart functionality
+- ADDED: Per row options for icons section
+- ADDED: Image icons support for icons section
+- IMPROVED: Sections Subtitle font-size control
+- IMPROVED: Price template for modern product card
+- IMPROVED: Sidebar categories filter
+- IMPROVED: Tags filter on the product page
+
+
+Version 2.1.8 from 2023-09-24
+- ADDED: Autodisabling checkbox 'I agree with store policies' if dynamic 'buy now' button is disabled
+- ADDED: Individual grid banners and slideshow banners captions colorization
+- ADDED: Color options for product name, and product price (regular and old) on the product page
+- ADDED: Promo mod - option to truncate product name
+- ADDED: Option to set buttons rounding on/off (is not inherited from global rounding)
+- IMPROVED: Product images cover mode
+- ADDED: Slideshow autoplay speed control
+- ADDED: Custom icons svg to all icons widgets
+- IMPROVED: Product cards cover off mode
+- IMPROVED: Ask about the product popup - added current product(variant) name and SKU information in the question automatically
+- IMPROVED: Brands sections - added only Grid layout (default is the carousel of grids)
+- FIXED: Bottom mobile navigation control
+
+
+Version 2.1.7 from 2023-09-21
+- ADDED: New 5 sections
+- ADDED: New skin T-Shirts
+- ADDED: Vendor products link on product page
+- ADDED: Tags filtering on the product page
+- ADDED: Option to show arrows for megamenu 1st level parent items
+- ADDED: Option to show/hide collection grid per row interface
+- ADDED: Option to paste custom SVG icons into the icons sections
+- ADDED: Interface to set carousel brands grid on mobile
+- ADDED: Option to show short product links without a collection name
+- ADDED: Collection tags filtering from the product page
+- ADDED: New section - Text with image / preset image on the right (no spaces)
+- ADDED: Button add to cart height option on the product page
+- ADDED: Option hide/show quantity selector in the sticky add to cart on the product page for desktop
+- ADDED: Option to show megamenu catalog popup on Event: Click or Mouseover
+- IMPROVED: Product page wishlist button click animation
+- IMPROVED: Spanish localization for the promo products section
+- IMPROVED: Product card option - Disable hover layer
+- IMPROVED: Adding to cart process with disabled header mini cart
+- IMPROVED: Product options color groups changing on click event
+- IMPROVED: Cart page layout on mobile
+- IMPROVED: Text with image sections
+- FIXED: Recently viewed products - were the visible empty cards of the unavailable products
+
+
+Version 2.1.6 from 2023-09-07
+- collection.json template update
+
+
+Version 2.1.5 from 2023-09-07
+- ADDED: Ajax add to cart on product page - on/off
+- ADDED: Add to wishlist button on the product page on the right side to the main add to cart buttons
+- ADDED: Inner horizontal product tabs
+- ADDED: Option to show/hide price 'from'
+- ADDED: Hide on mobile option for products carousel
+- ADDED: Compact mode for product carousel when 1 slide per row
+- IMPROVED: Subcollections
+- IMPROVED: Categories grid - added links on previews 
+- IMPROVED: Brands carousel - increased limit for automatic loading vendors from Shopify
+- IMPROVED: Products carousel - added card hover image changing when 1 product per row
+- FIXED: Currency TRY
+- FIXED: Product add to cart action in section Single product, Product carousel (1 per row), and lookbook
+
+
+Version 2.1.4 from 2023-09-01
+- ADDED: Custom payment logos
+- IMPROVED: Banners mosaic grid
+- IMPROVED: Address zip validation
+- IMPROVED: 'View all' button control in sections
+- IMPROVED: Brands limit extended for megamenu
+- FIXED: Close/open filter in memory
+- FIXED: Cart 'quantity increased' status
+
+
+Version 2.1.3 from 2023-08-28
+- ADDED: Full control of bottom mobile navigation
+- IMPROVED: Pre-order
+- IMPROVED: Sort by price in grid
+- FIXED: Product horizontal quantity field
+- FIXED: Main product image
+- FIXED: SEK currency price
+- FIXED: Edit line item qty
+
+
+Version 2.1.2 from 2023-08-24
+- FIXED: Preorder button
+
+
+Version 2.1.1 from 2023-08-23
+- ADDED: Option to show/hide taxes information under the price on the product page
+- ADDED: Slider video loop option
+- ADDED: Option to show/hide checkout button in the header cart
+- ADDED: Icons section preset 3 - bordered
+- ADDED: Header cart option - remove currency code
+- ADDED: Arrows for product tabs
+- IMPROVED: Mobile sticky 'add to cart' button adds a product to the cart if there are no product variants else scrolls to variants selection
+- IMPROVED: Cover mode for product images
+- IMPROVED: RTL mode for product carousel - 1 per row
+- IMPROVED: Product quantity interface for soldout products
+- FIXED: Show currency codes option
+- FIXED: Many in-stock status colorization
+- FIXED: SEK price currency
+- FIXED: Gallery section when more than one
+
+
+Version 2.1.0 from 2023-08-11
+- ADDED: Skin FISHING CAMPING HUNTING
+- ADDED: New slider section
+- ADDED: New mosaic banners section
+- ADDED: New products grid section with fixed banner
+- ADDED: New products carousel section with 1 per row product
+- ADDED: Option to show/hide catalog dropdown in mobile
+- IMPROVED: Product short descriptions
+
+
+Version 2.0.7 from 2023-07-31
+- ADDED: Product inventory control
+- IMPROVED: Shipping calculator
+
+
+Version 2.0.6 from 2023-07-24
+- ADDED: Get help header popup in mobile view
+- IMPROVED: Recently viewed items section - enabled sold-out products
+- IMPROVED: Collection product grid per row selector
+- UPDATED: Cart item order
+
+
+Version 2.0.5 from 2023-07-18
+- ADDED: Megamenu - dropdown layout Columns - added option 2-5 per row
+- ADDED: Option to hide list mode in the collection products grid
+- IMPROVED: Product carousel section button description
+- IMPROVED: Contact map & form section
+- FIXED: Collection top featured filter on the all products page
+
+
+Version 2.0.4 from 2023-07-15
+- Minor fixes
+
+
+Version 2.0.3 from 2023-07-14
+- ADDED: Product page gallery cover mode
+- ADDED: Gmap and WhatsApp icons to Social media section
+- IMPROVED: Images quality for high store width
+- IMPROVED: Mobile catalog navigation
+- IMPROVED: Blog post sections
+- IMPROVED: Faq section - Modern layout
+- UPDATED: Shipping calculator currency to the latest requirements
+- FIXED: Price filter
+
+
+Version 2.0.2 from 2023-07-03
+- ADDED: Option to use original image width or custom width for product media zoom
+- ADDED: Option to check by default checkbox 'I agree to the store policies'
+- ADDED: Option to show currency information to quickly differentiate the currency sign, e.g. $ USD, $ COP, $ CAD, etc
+- IMPROVED: Header gets help popup
+- IMPROVED: Currencies that use comma decimals
+- IMPROVED: Google product structured data
+- IMPROVED: Product images quality for the fullwidth store on collection page
+- CHANGED: Support icon in header settings popup
+
+
+Version 2.0.1 from 2023-06-30
+- ADDED: More sale ticker options
+- ADDED: Header get help popup option to enable/disable
+- ADDED: Custom mobile width for setting up when enable 1 and 2 products cards per row
+- ADDED: Ready aspect ratio presets for product images: portrait, landscape, square, and custom (default is square)
+- IMPROVED: Product price output
+- IMPROVED: Collection layout
+- IMPROVED: Collection filter categories - added active status
+- IMPROVED: Banners link
+- FIXED: 3rd level in the navigation of section 'Categories tree + slider'
+
+
+Version 2.0.0 from 2023-06-25
+- ADDED: Trustoo Product & Ali Reviews app compatibility
+- ADDED: Self-hosted video section autoplay option
+- ADDED: Auto-selecting header settings icons
+- ADDED: Option to hide informative boxes icon+text in the  bottom 'sticky add to cart on product page
+- ADDED: Option to set transparent product images in product cards
+- ADDED: Readmore buttons to all image + text sections
+- ADDED: Option enable/disable pjpg optimization for product images
+- ADDED: Latvian language support
+- ADDED: App Appstle℠ Loyalty & Rewards overlaps buttons theme style compatibility
+- ADDED: Auto mute in the video sections - Autoplaying videos only work if they are muted
+- ADDED: New header widget with contact information
+- ADDED: New settings for product cards
+- ADDED: Static shipping information in the header cart (if your country does not supports Shopify shipping carriers)
+- ADDED: New categories sections - carousels
+- ADDED: Option to disable sections animated appearance on scroll
+- ADDED: Collection filter sidebar new block - categories (3 levels)
+- IMPROVED: Sortable product custom html block
+- IMPROVED: Megamenu boxed layout
+- IMPROVED: Video section 'shop now' button on mobile
+- IMPROVED: Canonical tags for Google Search Console
+- IMPROVED: Removed hover effect on touch screens in mobile phone
+- IMPROVED: Announcement bar sliding if a single announcement only
+- IMPROVED: Vendors limit in the megamenu dropdown - layout Boxed
+- FIXED: 'Add a note' localization
+
+
+Version 1.2.9 from 2023-05-25
+- ADDED: Video section option to show linked button 
+- ADDED: Electronics slider autoplay
+- ADDED: Megamenu collection links quick view
+- ADDED: Sortable product page block 'Custom HTML' with global static content and dynamic source support
+- ADDED: Sortable product block 'Icons Info'
+- ADDED: Option to show linked button on video sections
+- ADDED: Show/Hide title option in sortable product block 'Short description'
+- IMPROVED: Single product section
+- IMPROVED: Color swatches
+- FIXED: Pinterest icon in social media
+
+
+Version 1.2.8 from 2023-05-19
+- FIXED: Theme Styles / Skin presets import
+
+
+Version 1.2.7 from 2023-05-18
+- ADDED: 3 layouts for prev next products
+- ADDED: Options to show the main product in frequently bought together products module
+- ADDED: Header 1st level navigation desktop/mobile font-size options
+- ADDED: SEO h1-h2 sections with only heading
+- IMPROVED: Product availability status
+- IMPROVED: Quick view on mobile
+- IMPROVED: Global products aspect ratio
+- IMPROVED: Product variant swatches
+- UPDATED: Documentation offline and online
+- FIXED: FBT list layout truncating titles
+
+
+Version 1.2.6 from 2023-05-16
+- ADDED: Limiting posts count in blog posts sections
+- ADDED: Option to use original youtube, Vimeo, and HTML video players without cover images
+- ADDED: Header cart items inventory notifications
+- ADDED: 3-5 columns options for boxed layout in megamenu
+- ADDED: Advanced product availability information
+- ADDED: Option to use default youtube and Vimeo and browser players without a cover image
+- IMPROVED: Variant's picker
+
+
+Version 1.2.5 from 2023-05-10
+- ADDED: Option to show sale badge and sale ticker globally and individually per product
+- IMPROVED: Wishlist and Recently Viewed Products
+- IMPROVED: Disabling add to cart in the product cart
+
+
+Version 1.2.4 from 2023-05-09
+- IMPROVED: Product swatches tooltip (now is shown only on image swatches hover)
+- IMPROVED: Rte content
+- IMPROVED: Product swatches tooltip
+- IMPROVED: Faq modern layout
+- IMPROVED: Product card when add to cart button is disabled
+- ADDED: Mobile heade burger alignment (left and right)
+- ADDED: Option 'Hide add to cart button on the product page
+- ADDED: Different apps compatibility
+- FIXED: Theme Styles
+- FIXED: Memory overflow due to script countdown
+
+
+Version 1.2.3 from 2023-05-04
+- IMPROVED: Faq section - layout Modern
+
+
+Version 1.2.2 from 2023-05-03
+- IMPROVED: Option hide quantity on product page
+- IMPROVED: Option "Hide out of stock items" on the collection page search popup
+- IMPROVED: Enable / Disable filtering on the product page
+- IMPROVED: Horizontal product card, if add to cart button, is disabled
+- IMPROVED: Section heading if the layout is 'left' alignment
+- ADDED: Reward app compatibility and others
+- ADDED: Products grid sections with center alignment
+
+
+Version 1.2.1 from 2023-05-02
+
+
+Version 1.2.0 from 2023-05-01
+- ADDED: Shopify apps jQuery noConflict
+- ADDED: Text + image section reverse option
+- IMPROVED: Shipping calculator
+- IMPROVED: Product card image quality on the screens with DPI 1.0
+- IMPROVED: Google Fonts
+- IMPROVED: Login popup animation
+- IMPROVED: Richeditor content
+- IMPROVED: Typography options and theme style presets
+- UPDATED: Header-5 layout navigation 1st level uppercase for fixed mode
+
+
+Version 1.1.9 from 2023-04-29
+- ADDED: Self-hosted video in slideshow
+- ADDED: Section Video Self-Hosted
+- ADDED: Theme Styles for badge ticker (in product cards)
+- ADDED: Theme Styles for section ticker
+- ADDED: Hide out of stock products  option in main section of collection page
+- IMPROVED: Announcement bar
+- IMPROVED: Product reviews apps sync
+- IMPROVED: Product card cover enable / disable option
+- IMPROVED: Product card aspect ratio settings
+
+
+Version 1.1.8 from 2023-04-25
+- ADDED: Option disable min height for quick shop popup
+- ADDED: Option to select custom icon for header settings block
+- ADDED: Product Cards Sale Ticker
+- ADDED: Section Ticker
+- IMPROVED: Rivyo Product Reviews & QA app compatibility
+
+
+Version 1.1.7 from 2023-04-23
+- IMPROVED: Catalog mode
+- IMPROVED: Product compare at price
+- ADDED: Option to hide some filter options from collection filter sidebar
+- FIXED: Collection price filter
+
+
+
+Version 1.1.6 from 2023-04-22
+- Fixed Bags and Toys skin import
+
+
+Version 1.1.5 from 2023-04-22
+- Fixed: Toys skin import
+- Minor changes of slideshow presets
+
+
+
+Version 1.1.4 from 2023-04-21
+- ADDED: Newsletter popup animation
+- ADDED: Rivyo Product Reviews & QA app compatibility
+- IMPROVED: Product buy now button layout
+- IMPROVED: Quick search tags in search popup enabling / disabling
+- FIXED: Single(Featured) product sections
+- FIXED: Mobile bottom sticky on product page
+
+
+Version 1.1.3 from 2023-04-20
+- FIXED: Logo in header layout 2,3,4,5,6
+
+
+Version 1.1.2 from 2023-04-19
+- FIXED: Product main tab description
+
+
+Version 1.1.1 from 2023-04-19
+- ADDED: Copyright edit moved from file to theme settings
+- ADDED: Slideshow button link target="_blank" option
+- ADDED: Announcement-bar section target="_blank" option for links
+- IMPROVED: Mobile optimization for carousel with tabs
+- IMPROVED: Mobile optimization for carousel with tabs
+- IMPROVED: Products grid center aligment by default
+- FIXED: Wishlist prompt in the header cart when wishlist disabled
+- FIXED: Slideshow button custom text
+
+
+Version 1.1.0 from 2023-04-18
+- ADDED: Pickup enable/disable option
+- ADDED: Search popup option to disable start product carousel
+- ADDED: Logo  desktop/mobile width option
+- IMPROVED: Slideshow autoplay control
+- FIXED: Sticky header login icon when Accounts are disabled in shopify globally
+- FIXED: Wishlist disabling
+
+
+Version 1.0.9 from 2023-04-14
+- Minor rtl improvement for slider autoplay control
+
+
+Version 1.0.8 from 2023-04-14
+- ADDED: Category filter in megamenu catalog popup
+- ADDED: Banners slider autoplay
+- ADDED: Option sticky header always visible
+- ADDED: Collection products grid fullwidth option
+- Minor improvements
+
+
+Version 1.0.7 from 2023-04-13
+- Minor fixes
+
+
+Version 1.0.6 from 2023-04-11
+- ADDED: Header cart reservation
+- ADDED: Option to show at once checkout button in mobile header cart
+- ADDED: Fixed bottom button in mobile catalog popup
+- IMPROVED: Mobile header cart
+
+
+
+Version 1.0.5 from 2023-04-09
+- IMPROVED: Shopify Inbox app compatibility
+
+
+Version 1.0.4 from 2023-04-07
+- ADDED: 3rd part Apps blocks placement option on the product page
+- FIXED: APP sections width
+- FIXED: Theme verification on the 'Coming soon page'
+- ADDED: Categories section option auto equal height for cards
+- FIXED: language and country selector were visible in mobile even if they were disabled globally
+- ADDED: Option to disable button 'Categories' in 'Header 2' layout
+- ADDED: Judge.me app compatibility
+- ADDED: Inbox app compatibility
+- ADDED: Other app compatibilities
+- IMPROVED: Quick View media gallery
+- FIXED: Minor issues
+
+ 
+
+
+Version 1.0.3 from 2023-04-04
+- IMPROVED: Shipping calculator form
+- ADDED: Settings drawer enable disable option
+- ADDED: Limit for infinite related product on the product page
+- FIXED: Product custom tab metafield with html content
+- FIXED: Price in header cart
+- UPDATED: Extended instagram token api token for longer time for theme demonstraion of instagram widget
+
+
+
+Version 1.0.2 from 2023-04-01
+- Gray product page main image background replaced with white by default
+
+
+
+Version 1.0.1 from 2023-04-01
+- Product card old price format fix
+- Product page 404 fix
+
+
+Version 1.0.0 from 2023-03-30
+- Release
+
+
